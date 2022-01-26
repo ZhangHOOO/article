@@ -1,0 +1,1 @@
+import{o as e,c as a,a as t,b as o}from"./app.7d51faec.js";import{_ as c}from"./plugin-vue_export-helper.21dcd24c.js";const r={},s={id:"keep-alive",tabindex:"-1"},_=t("a",{class:"header-anchor",href:"#keep-alive","aria-hidden":"true"},"#",-1),d=o(" keep-alive"),i=[_,d];function n(p,h){return e(),a("h1",s,i)}var m=c(r,[["render",n]]);export{m as default};

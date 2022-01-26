@@ -1,0 +1,1 @@
+const t={key:"v-0fea65c3",path:"/vue/getting-started.html",title:"getter=state s",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1615019545e3,contributors:[{name:"chenjunyi",email:"chenbraver@gmail.com",commits:1}]},filePathRelative:"vue/getting-started.md"};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-47635413",path:"/vue/KeepAlive.html",title:"keep-alive",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1616037992e3,contributors:[{name:"chenjunyi",email:"chenbraver@gmail.com",commits:1}]},filePathRelative:"vue/KeepAlive.md"};export{e as data};

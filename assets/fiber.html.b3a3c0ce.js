@@ -1,0 +1,1 @@
+const e={key:"v-469522f6",path:"/react/fiber.html",title:"fiber",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1616037992e3,contributors:[{name:"chenjunyi",email:"chenbraver@gmail.com",commits:1}]},filePathRelative:"react/fiber.md"};export{e as data};

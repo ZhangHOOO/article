@@ -1,0 +1,1 @@
+import{o as e,c as t,a as s,b as a}from"./app.7d51faec.js";import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";const o={},c={id:"getter-state-s",tabindex:"-1"},_=s("a",{class:"header-anchor",href:"#getter-state-s","aria-hidden":"true"},"#",-1),d=a(" getter=state s"),n=[_,d];function i(h,p){return e(),t("h1",c,n)}var m=r(o,[["render",i]]);export{m as default};

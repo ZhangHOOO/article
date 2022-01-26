@@ -1,0 +1,1 @@
+import{o as e,c as r,a as t,b as a}from"./app.7d51faec.js";import{_ as o}from"./plugin-vue_export-helper.21dcd24c.js";const c={},s={id:"fiber",tabindex:"-1"},_=t("a",{class:"header-anchor",href:"#fiber","aria-hidden":"true"},"#",-1),d=a(" fiber"),i=[_,d];function n(f,h){return e(),r("h1",s,i)}var m=o(c,[["render",n]]);export{m as default};
